@@ -19,6 +19,6 @@ To ba able to use from any location copy script to `/usr/bin` directory and give
       -r repository - specify http(s) url to gitlab ripository with backslash
       -t token - specify private gitlab token that can be obtain on gitlab account setting page
 
-    example: gclone -r "https://gitlab.medzdrav.ru/" -t 4g-ZxrAXKuJa5kapqsDF
+    example: gclone -r "https://gitlab.example.com/" -t 4g-YxrAXKuJa5kapqsDF
 
 
