@@ -10,7 +10,7 @@ while [ $# -gt 0 ]; do
     echo "  -r repository - specify http(s) url to gitlab ripository with backslash"
     echo "  -t token - specify private gitlab token that can be obtain on gitlab account setting page"
 
-    echo 'example: gclone -r "https://gitlab.medzdrav.ru/" -t 4g-ZxrAXKuJa5kapqsDF'
+    echo 'example: gclone -r "https://gitlab.example.com/" -t 4g-ZxrAXKuJa5kapqsDF'
     echo ""
     echo "WARNING!!! make sure your public SSH key is setup on gitlab profile. Otherwise, you will get authorization error"
 
